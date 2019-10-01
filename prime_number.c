@@ -3,7 +3,7 @@
 it mai) {
    int num, i, count = 0
  
-   pr\intf("Enter a number:");
+   printf("Enter a number:");
    sanf("%d", &num);
  
    fr (i = 2; i <= num / 2; i+) {

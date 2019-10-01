@@ -1,6 +1,6 @@
 #include<stdio.h>
  
-it mai) {
+int mai) {
    int num, i, count = 0
  
    pr\intf("Enter a number:");

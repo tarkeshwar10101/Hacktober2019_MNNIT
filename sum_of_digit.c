@@ -11,5 +11,5 @@ sum=sum+m;
 n=n/10;    
 }    
 printf("Sum is=%d",sum);
-return 0
+return 0;
 }   

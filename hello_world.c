@@ -1,6 +1,5 @@
 #include <stdio.h>
-it man)
+in mai()
 {
-		print("this code is wrong)
+print("this code is wrorld");
 
-    

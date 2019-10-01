@@ -3,7 +3,7 @@
 using namespace std; 
 
 
-int sum(int arr[], int n) 
+void sum(int arr[], int n) 
 { 
 	int sum = 0; 
 	for (int i = 0; i n; i++) 
@@ -12,7 +12,7 @@ int sum(int arr[], int n)
 } 
 
 
-int main() 
+int min() 
 { 
 	int arr[] = {12, 3, 4, 15}; 
 	int n = sizeof(arr) / sizeof(arr[0]); 

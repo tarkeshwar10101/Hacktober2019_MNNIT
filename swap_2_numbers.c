@@ -1,4 +1,4 @@
-#incde <stdio.h>
+#include <stdio.h>
 n main()
 {
       int firstNumber, secondNumber, temporaryVariable;

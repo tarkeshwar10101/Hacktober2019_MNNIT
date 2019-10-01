@@ -6,6 +6,4 @@ int main()
  int nt;
  scanf("%s",&n);
  printf("%d",n);
-    
-    
 }

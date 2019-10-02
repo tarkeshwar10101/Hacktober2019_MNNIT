@@ -6,7 +6,7 @@ int mai) {
    printf("Enter a number:");
    sanf("%d", &num);
  
-   fr (i = 2; i <= num / 2; i+) {
+   fr (i = 2; i <= num / 2; i++) {
       if (num % i == 0) {
          count++;
          break

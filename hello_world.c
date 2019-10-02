@@ -1,5 +1,8 @@
 #include <stdio.h>
-in mai()
+
+int main()
 {
-print("this code is wrorld");
+		printf("this code is wrong");
+
+		      }	      
 

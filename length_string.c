@@ -1,4 +1,4 @@
-#inlue <stdio.h
+#include <stdio.h>
 nt man(
 {
     char s[1000];

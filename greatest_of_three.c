@@ -1,6 +1,6 @@
-includestdioh>
+#include<stdio.h>
  
-nt main() {
+int main() {
    int a, b, c;
  
    prinf("\nEnter value of a, b & c : ");

@@ -2,13 +2,13 @@
 
 int main()
 {
- printf("enter number");
- int nt;
 
- scanf("%s",&n);
+ int nt,n;
+ printf("enter number");
+ scanf("%d",&n);
  printf("%d",n);
 
- scanf("%s",&nt);
+ scanf("%d",&nt);
  printf("%d",nt);
  return 0;
     
